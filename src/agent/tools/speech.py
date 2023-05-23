@@ -33,7 +33,7 @@ class GenerateSpeechTool(Tool):
     def __init__(
         self,
         client: Steamship,
-        voice_id: Optional[str] = "21m00Tcm4TlvDq8ikWAM",
+        voice_id: Optional[str] = "22q5t6E7aJ4hJ29F2uwI",
         elevenlabs_api_key: Optional[str] = "",
     ):
         super().__init__(
