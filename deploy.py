@@ -22,7 +22,7 @@ bot = client.use(
     config={
         "bot_token": os.environ.get("BOT_TOKEN")
         or input(
-            "Paste your telegram bot token\nLearn how to create one here: https://github.com/EniasCailliau/GirlfriendGPT/blob/main/docs/register-telegram-bot.md)\n: "
+            "6248485917:AAHwROX3ZfwNNcDCZvFrRgC9DSC1_tctFZs"
         ),
         "elevenlabs_voice_id": os.environ.get("ELEVENLABS_VOICE_ID", ""),
         "elevenlabs_api_key": os.environ.get("ELEVENLABS_API_KEY", ""),
