@@ -1,11 +1,11 @@
 {
 	"type": "package",
-	"handle": "sacha-gpt-bot",
-	"version": "1.1.0",
+	"handle": "girlfriend-gpt-bot",
+	"version": "1.7.0",
 	"description": "",
 	"author": "",
 	"entrypoint": "Unused",
-	"public": false,
+	"public": true,
 	"plugin": null,
 	"build_config": {
 		"ignore": [
@@ -28,6 +28,21 @@
 			"type": "string",
 			"description": "Optional voice_id for ElevenLabs Voice Bot",
 			"default": ""
+		},
+		"chat_ids": {
+			"type": "string",
+			"description": "Comma separated list of whitelisted chat_id's",
+			"default": ""
+		},
+		"personality": {
+			"type": "string",
+			"description": "The personality you want to deploy. Pick one of the personalities listed here: https://github.com/EniasCailliau/GirlfriendGPT/tree/main/src/personalities",
+			"default": null
+		},
+		"use_gpt4": {
+			"type": "boolean",
+			"description": "If True, use GPT-4. Use GPT-3.5 if False. GPT-4 generates better responses at higher cost and latency.",
+			"default": true
 		}
 	},
 	"steamshipRegistry": {
