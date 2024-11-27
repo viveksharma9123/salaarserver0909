@@ -1,23 +1,17 @@
-# [GirlfriendGPT](https://www.gptgirlfriend.online) - Your personal AI companion
+# GirlfriendGPT - Your personal AI companion
 
 Welcome to the GirlfriendGPT repository. This is a starter project to help you build your personalized AI companion with a unique personality, voice, and even SELFIES!
 
-## 🤩 GirlfriendGPT official website. 
+## Deprication warning. 
 
-This repository is no longer actively maintained. GirlfriendGPT has moved to its own dedicated platform, where you can find all the latest updates, features, and improvements!
-
-Visit the new site here: [gptgirlfriend.online](https://www.gptgirlfriend.online). The new site offers Uncensored AI roleplay where AI Characters can chat with your and even send you AI selfies. You can try it out for free. 
-
-Thank you to everyone who contributed to this project. We are excited to continue growing and evolving GirlfriendGPT on its own platform. 
-
-For further updates and to stay connected, follow us on Twitter: [@gptgirlfriend](https://twitter.com/gptgirlfriend)
+This repository is no longer actively maintained. 
 
 ## Demo
 Click the image below for a demo:
 
 [![Demo Video](http://img.youtube.com/vi/LiN3D1QZGQw/0.jpg)](http://www.youtube.com/watch?v=LiN3D1QZGQw "Video Title")
 
-## Subscribe to updates here: https://twitter.com/gptgirlfriend
+## Subscribe to updates here: https://twitter.com/eniascailliau
 
 ## Features
 
